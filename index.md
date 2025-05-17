@@ -1,74 +1,86 @@
 # Poli Naidu Sigilipalli
 **Software Engineer**  
-Hyderabad, India • +91 9177404587 • polinaidusigilipalli@gmail.com  
-[LinkedIn](#) | [GitHub](#)
+📍 Hyderabad, India &nbsp;|&nbsp; 📞 +91 9177404587 &nbsp;|&nbsp; 📧 polinaidusigilipalli@gmail.com  
+🔗 [LinkedIn](#) &nbsp;|&nbsp; 💻 [GitHub](#)
 
 ---
 
-## 🧑‍💼 Profile
+## 🧠 Profile
 
-Software Engineer with a proven track record at Crimsonlake Technologies and Axiomio, specializing in developing scalable, high-performance applications. Expert in JavaScript, Node.js, and leading teams to success. Achieved significant infrastructure cost reductions and efficiency improvements by resolving critical system issues and automating processes. Demonstrates strong problem-solving and leadership skills.
+🚀 Software Engineer with a proven track record at **Crimsonlake Technologies** and **AxiomIo**, delivering high-performance applications at scale. Expert in **JavaScript**, **Node.js**, and leading technical teams. Known for optimizing infrastructure, solving production-critical issues, and automating systems for efficiency.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
-- **Languages/Frameworks**: JavaScript, TypeScript, Node.js, NestJS, Java, React, Angular, Golang
-- **Databases**: PostgreSQL, MongoDB
-- **Tools & Platforms**: Kafka, Stripe, Electron.js
-- **Testing**: Jest, k6
-- **Soft Skills**: Team Leadership, Code Quality, System Design, Performance Optimization
+**Languages & Frameworks**:  
+`JavaScript`, `TypeScript`, `Node.js`, `NestJS`, `Java`, `React`, `Angular`, `Golang`
+
+**Databases**:  
+`PostgreSQL`, `MongoDB`
+
+**Platforms & Tools**:  
+`Kafka`, `Stripe`, `Electron.js`
+
+**Testing & DevOps**:  
+`Jest`, `k6`
+
+**Core Strengths**:  
+`System Design`, `Team Leadership`, `Code Quality`, `Performance Optimization`
 
 ---
 
 ## 💼 Experience
 
-### Software Engineer  
-**Crimsonlake Technologies** – Hyderabad  
-*Mar 2024 – Present*
+### 🧩 Crimsonlake Technologies — *Software Engineer*  
+📍 Hyderabad | 📅 *Mar 2024 – Present*
 
-- Developed casino games handling ~1.5 million bets/day ensuring high scalability and performance.
-- Fixed a critical Java memory retention issue that optimized resource usage and cut infrastructure costs.
-- Built an automated feed application for sports odds, reducing client staff from 30 to 10.
+- 🎰 Developed casino games processing **~1.5 million bets/day** with high reliability.
+- 🛠️ Resolved a **Java memory retention bug** that improved infrastructure efficiency.
+- 🤖 Built a **sports odds feed generator**, cutting operational staff from 30 → 10.
 
 ---
 
-### Software Engineer  
-**AxiomIo** – Hyderabad  
-*Oct 2020 – Feb 2024*
+### 🧩 AxiomIo — *Software Engineer*  
+📍 Hyderabad | 📅 *Oct 2020 – Feb 2024*
 
-- Developed cross-platform desktop apps using Electron.js.
-- Built web apps with Node.js, NestJS, Angular, and PostgreSQL.
-- Denormalized database schemas to reduce complexity and eliminate 504 errors.
-- Enabled large file downloads by streaming server-side, overcoming 200MB limitations.
-- Led a team of 3 to write unit tests using Jest and ensure code quality.
-- Integrated Stripe APIs to support complex payment features.
-- Performed load testing with k6 to identify and address performance bottlenecks.
+- 🖥️ Built cross-platform desktop apps using `Electron.js`.
+- 🌐 Delivered modern web apps with `Node.js`, `NestJS`, `Angular`, and `PostgreSQL`.
+- 🧠 Improved DB performance via denormalization and eliminated API timeout errors.
+- 📥 Enabled large file streaming to bypass browser memory limits.
+- 🧪 Led unit testing strategy using `Jest` across team projects.
+- 💳 Integrated advanced `Stripe` features for payment systems.
+- 📊 Conducted stress tests using `k6` to harden system scalability.
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Technology**  
+🎓 **Bachelor of Technology**  
 Vishnu Institute of Technology – Bhimavaram  
-*Apr 2015 – Mar 2019*  
-GPA: 7.0
+📅 *Apr 2015 – Mar 2019* | 🎯 GPA: 7.0
 
-**Intermediate**  
+🎓 **Intermediate**  
 Sri Chaitanya Junior College – Visakhapatnam  
-*Apr 2013 – Mar 2015*  
-Final Grade: 75%
+📅 *Apr 2013 – Mar 2015* | 🎯 Grade: 75%
 
-**10th Class**  
+🎓 **10th Class**  
 DAV Public School – Visakhapatnam  
-*Apr 2012 – Mar 2013*  
-GPA: 9.4
+📅 *Apr 2012 – Mar 2013* | 🎯 GPA: 9.4
 
 ---
 
-## 🏆 Accomplishments
+## 🏅 Accomplishments
 
-- Completed **Udacity Machine Learning Nanodegree**.
-- Secured **3rd place** in a competitive coding contest at SRKR Engineering College.
-- Selected for **MRND Winter Camp** at Gayatri Vidya Parishad, Visakhapatnam.
-- Completed skill assessments on **LinkedIn Learning** for JavaScript, React, and Python.
+🏆 Completed **Udacity Machine Learning Nanodegree**  
+🏆 3rd place – **Coding Contest**, SRKR Engineering College  
+🏆 Selected – **MRND Winter Camp**, Gayatri Vidya Parishad  
+🏆 Skill badges on **LinkedIn Learning** for JavaScript, React, Python
+
+---
+
+## 📚 Extra
+
+🌍 Languages: English, Telugu, Hindi  
+🎓 Certifications: PDE License, Project Management Tech (PMT)  
+📌 Interests: System Design, AI Tools, Technical Writing
