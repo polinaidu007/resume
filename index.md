@@ -14,8 +14,8 @@ Software Engineer with a proven track record at Crimsonlake Technologies and Axi
 
 ## SKILLS
 
-**Programming Languages:** JavaScript, TypeScript, Java, Golang  
-**Frameworks & Libraries:** Node.js, NestJS, Express, React, Angular, Electron.js, GraphQL  
+**Programming Languages:** JavaScript, TypeScript, Java, Golang, Python  
+**Frameworks & Libraries:** Node.js, NestJS, Express, React, Angular, Electron.js, GraphQL, Zustand  
 **Databases:** PostgreSQL, Redis, MongoDB  
 **DevOps & Messaging:** Kafka, AWS EC2, AWS S3, AWS Lambda  
 **Testing & Performance:** Jest, k6  
